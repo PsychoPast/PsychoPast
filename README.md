@@ -5,7 +5,7 @@
 [<img align="left" alt="itssyfe.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Psycho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Psycho | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
+<mailto:contact@psychopast.me>
 
 [twitter]: https://twitter.com/PsychoPastt
 [discord]: https://dsc.bio/8765
