@@ -10,4 +10,4 @@
 [twitter]: https://twitter.com/PsychoPastt
 [discord]: https://dsc.bio/8765
 [website]: https://psychopast.me
-[email]: <contact@psychopast.me>
+[email]: <mailto:contact@psychopast.me>
