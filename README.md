@@ -5,7 +5,7 @@
 [<img align="left" alt="Psycho | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Psycho | Email"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />][email]
 
-[website]: https://psychopast.me
-[email]: <mailto:contact@psychopast.me>
+[website]: https://psychopast.live
+[email]: <mailto:contact@psychopast.live>
 [twitter]: https://twitter.com/PsychoPastt
 [discord]: https://dsc.bio/8765
