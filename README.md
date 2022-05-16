@@ -1,4 +1,4 @@
-<h1 align="center"><em>Welcome, Stranger</em></h1>
+<h1 align="center"><em>【﻿Ｗｅｌｃｏｍｅ，　Ｓｔｒａｎｇｅｒ】</em></h1>
 <img src="https://i.imgur.com/M18EDg7.png">
 
 
