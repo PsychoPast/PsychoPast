@@ -1,5 +1,5 @@
 <h1 align="center"><em>【 Ｗｅｌｃｏｍｅ，Ｓｔｒａｎｇｅｒ】</em></h1>
-<img src="https://i.imgur.com/M18EDg7.png">
+<img src="https://i.imgur.com/z0hrYDm.gif">
 
 
 [<img align="left" alt="Psycho | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
