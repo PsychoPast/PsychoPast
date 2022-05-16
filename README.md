@@ -1,4 +1,6 @@
-# Hello World :)
+<h1 align="center" style="color:cyan"><em>Welcome, Stranger</em></h1>
+<img src="C:/Users/chris/Downloads/ban.png">
+
 
 [<img align="left" alt="Psycho | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Psycho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
