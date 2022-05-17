@@ -28,10 +28,10 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Interests }</b> = [<em>"Software Development", "Listening to Music", "Watching series and anime", "Late night driving", "Deep conversations"</em>]
       <br>
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Music Genre }</b> = [<em>"Nightcore", "Pop", "J-Pop"</em>]
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Top Music Genres }</b> = [<em>"Nightcore", "Pop", "J-Pop"</em>]
       <br>
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Top Anime }</b> = [<em>"Shingeki no Kyojin", "Sword Art Online", "Tenki no Ko", "Death Note", "Hagane no Renkinjutsushi: Brotherhood"</em>]
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Top Animes }</b> = [<em>"Shingeki no Kyojin", "Sword Art Online", "Tenki no Ko", "Death Note", "Hagane no Renkinjutsushi: Brotherhood"</em>]
       <br>
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Homies }</b> = [ <a href="https://github.com/AquaPlaysYT">Kyle</a>, <a href="https://github.com/karmakittenx">Karma</a>, <a href="https://github.com/ItsSyfe">Syfe</a>, <a href="https://github.com/m1fnbr">Mia</a>, <a href="https://github.com/SiLeNSwOrD">Droidy</a>, <a href="https://github.com/OutTheShade">Shade</a>, <a href="https://github.com/Marc-Jalkh">Marc</a> ]
