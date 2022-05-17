@@ -11,7 +11,7 @@
     [
   </p>
   <p>
-     &emsp &emsp<b>[Birthdate]</b> = <em>06/23/2003</em>
+            <b>[Birthdate]</b> = <em>06/23/2003</em>
   </p>
   <p>
     ]
