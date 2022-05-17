@@ -10,9 +10,12 @@
   <p>
     [
   </p>
-  <pre>
+  <p style="margin-left:30px">
      <b>[Birthdate]</b> = <em>06/23/2003</em>
-  </pre>
+  </p>
+  <p>
+    ]
+  </p>
 </div>
 
 
