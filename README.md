@@ -1,13 +1,16 @@
 <h1 align="center"><em>【 Ｗｅｌｃｏｍｅ，Ｓｔｒａｎｇｅｒ】</em></h1>
 <img src="https://i.imgur.com/z0hrYDm.gif">
-<h3 align="left">【 Ｐｒｏｆｉｌｅ 】</h3>
 <div>
+<h3 align="left">【 Ｐｒｏｆｉｌｅ 】</h3>
    <img align="right" src="https://data.whicdn.com/images/346684507/original.gif">
    <p align="left">
       My name is Christopher but you can call me 
       <span><b><em>Chris</em></b></span>. 
       I'm an 18 years old Lebanese individual who fell in love with programming 4 years ago. I'm a 2nd year computer science student at one of the most prominent university of my country. I really enjoy working on personal projects with the sole purpose of getting better at writing efficient code in a multitude of languages and I'm keen on keeping abreast of the latest frameworks and technology.
    </p>
+   </div>
+   <div>
+   <h3 align="left">【 GENERAL INFORMATION 】</h3>
    <p>
       [
    </p>
