@@ -12,14 +12,14 @@
 <div>
    <h3 align="left">【 GENERAL INFORMATION 】</h3>
    <p>
-      [
+      <b>[</b>
    </p>
    <p>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Gender }</b> = 
       <img align="center" width="22px" src="https://www.svgrepo.com/show/206502/male.svg"></img>
       <br>
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Birthdate }</b> = <em>06/23/2003</em>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Birthdate }</b> = <em>"06/23/2003"</em>
       <br>
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Languages }</b> = [<em>"English", "French", "Arabic"</em>]
@@ -37,7 +37,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Homies }</b> = [ <a href="https://github.com/AquaPlaysYT">Kyle</a>, <a href="https://github.com/karmakittenx">Karma</a>, <a href="https://github.com/ItsSyfe">Syfe</a>, <a href="https://github.com/m1fnbr">Mia</a>, <a href="https://github.com/SiLeNSwOrD">Droidy</a>, <a href="https://github.com/OutTheShade">Shade</a>, <a href="https://github.com/Marc-Jalkh">Marc</a> ]
    </p>
    <p>
-      ]
+      <b>]</b>
    </p>
 </div>
 <div>
