@@ -22,7 +22,7 @@
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Languages }</b> = [<em>"English", "French", "Arabic"</em>]
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Interests }</b> = [<em>"Software Development", "Listening to Music", "Late night driving", "Deep conversations"</em>]
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Interests }</b> = [<em>"Software Development", "Listening to Music", "Watching series and anime", "Late night driving", "Deep conversations"</em>]
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Music Genre }</b> = [<em>"Nighcore", "Pop", "J-Pop"</em>]
       <br>
