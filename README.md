@@ -11,8 +11,14 @@
     [
   </p>
   <p>
-            <b>[Birthdate]</b> = <em>06/23/2003</em>
+        &nbsp;&nbsp;&nbsp;&nbsp;<b>[Birthdate]</b> = <em>06/23/2003</em>
+        <br>
+         &nbsp;&nbsp;&nbsp;&nbsp;<b>[Gender]</b> = 
+         <img align="center" width="22px" src="https://www.svgrepo.com/show/204225/male.svg"></img>
+         <br>
+         &nbsp;&nbsp;&nbsp;&nbsp;<b>[Birthdate]</b> = <em>06/23/2003</em>
   </p>
+  
   <p>
     ]
   </p>
