@@ -41,13 +41,39 @@
    </p>
 </div>
 <div>
-<h3 align="left">【 L A N G U A G E S 】</h3>
+<h3 align="left">【 P R O G R A M M I N G 】</h3>
+<img align="right" src="https://c.tenor.com/7ZzPY3wgX_4AAAAC/zero-two-002.gif">
+<p>
+  I write code in a multitude of languages, but the ones I'm most familiar with are: <b>C#</b>, <b>C++</b> and <b>Java</b>. 
+  <br>
+  <br>
+  I'm planning on sharpening my <b>Python</b>, <b>NodeJS</b> and <b>Go</b> skills over the next few months as well as learning <b>ReactJS</b> and <b>VueJS</b>.
+  <br>
+  <br>
+  I enjoy developing libraries, desktop applications and back-end services. I'm not fan of the <b>front-end</b> though, I'm more of a <b>back-end</b> and software developer. I really don't enjoy designing websites or user interfaces.
+  <br>
+  <br>
+  I would love to get into <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Artificial Intelligence</b> at some point in the future. I'm also eager to learn game development using <b>Unity</b> or <b>Unreal Engine</b> and be part of a team that will build a game from scratch.
+  <br>
+  <br>
+  I'm familiar with <b>Reverse Engineering</b>, a concept I really find interesting. I have disassembled, analyzed and debugged various executables in the past for fun getting a better understanding of Assembly x86 and x64 in the process. I would like to take it a step further become a <b>bounty</b> hunter once I gain enough experience in this field.
+  <br>
+  <br>
+  I'm a person who likes to jump on the bandwagon and learn new things, so I'm always looking for new ways to improve my skills which consists mainly of working on personal and team projects regardless of whether or not I/we succeed in completing them. What's important to me is the knowledge and experience that I gain along the way as well as the ability to properly plan, organize, design and implement code together with the team I'm part of consisting most of the time of me and my homies which makes communication and collaboration a breeze. 
+  <br>
+  <br>
+  If you are interested in working on a project with me, please contact me via <b>Discord</b> or <b>Twitter</b>.
+ 
+</p>
 </div>
+<div>
+<h3 align="left">【 S O C I A L S 】</h3>
 
 [<img align="left" alt="Psycho | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Psycho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Psycho | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Psycho | Email"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />][email]
+</div>
 
 [website]: https://psychopast.live
 [email]: <mailto:contact@psychopast.live>
