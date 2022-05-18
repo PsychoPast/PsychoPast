@@ -78,7 +78,7 @@
 <div>
 <br>
 <br>
-<img src="https://im2.ezgif.com/tmp/ezgif-2-6e604f7e8e.gif">
+<img src="https://im2.ezgif.com/tmp/ezgif-2-75ccf128ed.gif">
 </div>
 
 [website]: https://psychopast.live
