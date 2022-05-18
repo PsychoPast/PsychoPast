@@ -78,7 +78,7 @@
 <div>
 <br>
 <br>
-<img align="bottom" src="http://37.media.tumblr.com/372ad02f3e9bd121abf0733ecf95fc04/tumblr_mtwxb1uU8W1rey868o1_500.gif">
+<img src="https://im2.ezgif.com/tmp/ezgif-2-6e604f7e8e.gif">
 </div>
 
 [website]: https://psychopast.live
