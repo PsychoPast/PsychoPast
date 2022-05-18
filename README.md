@@ -56,10 +56,10 @@
       I would love to get into <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Artificial Intelligence</b> at some point in the future. I'm also eager to learn game development using <b>Unity</b> or <b>Unreal Engine</b> and be part of a team that will build a game from scratch.
       <br>
       <br>
-      I'm familiar with <b>Reverse Engineering</b>, a concept I really find interesting. I have disassembled, analyzed and debugged various executables in the past for fun getting a better understanding of Assembly x86 and x64 in the process. I would like to take it a step further become a <b>bounty</b> hunter once I gain enough experience in this field.
+      I'm familiar with <b>Reverse Engineering</b>; a concept I find really interesting. I have disassembled, analyzed and debugged various executables in the past for fun, getting a better understanding of Assembly x86 and x64 in the process. I would like to take it a step further and become a <b>bounty hunter</b> once I gain enough experience in this field.
       <br>
       <br>
-      I'm a person who likes to jump on the bandwagon and learn new things, so I'm always looking for new ways to improve my skills which consists mainly of working on personal and team projects regardless of whether or not I/we succeed in completing them. What's important to me is the knowledge and experience that I gain along the way as well as the ability to properly plan, organize, design and implement code together with the team I'm part of consisting most of the time of me and my homies which makes communication and collaboration a breeze. 
+      I'm a person who likes to jump on the bandwagon and learn new things, so I'm always looking for new ways to improve my skills which consists mainly of working on personal and team projects regardless of whether or not I/we succeed in completing them. What's important to me is the knowledge and experience that I gain along the way as well as the ability to properly plan, organize, design and implement code together with the team I'm part of, consisting most of the time of me and my homies which makes communication and collaboration a breeze. 
       <br>
       <br>
       If you are interested in working on a project with me, please contact me via <b>Discord</b> or <b>Twitter</b>.
