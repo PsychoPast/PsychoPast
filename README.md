@@ -42,7 +42,7 @@
 </div>
 <div>
 <h3 align="left">【 P R O G R A M M I N G 】</h3>
-<img align="left" src="http://images6.fanpop.com/image/photos/41800000/Zero-Two-bluedopamine-41813035-664-376.gif">
+<img align="left" src="https://thumbs.gfycat.com/DevotedHeartyIsabellineshrike-size_restricted.gif">
 <p>
   I write code in a multitude of languages, but the ones I'm most familiar with are: <b>C#</b>, <b>C++</b> and <b>Java</b>. 
   <br>
