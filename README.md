@@ -73,8 +73,8 @@
 [<img align="left" alt="Psycho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Psycho | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Psycho | Email"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />][email]
-<img src="http://37.media.tumblr.com/372ad02f3e9bd121abf0733ecf95fc04/tumblr_mtwxb1uU8W1rey868o1_500.gif">
 </div>
+<img src="http://37.media.tumblr.com/372ad02f3e9bd121abf0733ecf95fc04/tumblr_mtwxb1uU8W1rey868o1_500.gif">
 
 [website]: https://psychopast.live
 [email]: <mailto:contact@psychopast.live>
