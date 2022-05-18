@@ -42,7 +42,7 @@
 </div>
 <div>
 <h3 align="left">【 P R O G R A M M I N G 】</h3>
-<img align="left" src="https://thumbs.gfycat.com/DevotedHeartyIsabellineshrike-size_restricted.gif">
+<img align="left" src="https://media4.giphy.com/media/3ohjV6G9UwkB190zbq/200.gif">
 <p>
   I write code in a multitude of languages, but the ones I'm most familiar with are: <b>C#</b>, <b>C++</b> and <b>Java</b>. 
   <br>
@@ -73,6 +73,7 @@
 [<img align="left" alt="Psycho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Psycho | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Psycho | Email"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />][email]
+<img src="http://37.media.tumblr.com/372ad02f3e9bd121abf0733ecf95fc04/tumblr_mtwxb1uU8W1rey868o1_500.gif">
 </div>
 
 [website]: https://psychopast.live
