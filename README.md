@@ -6,7 +6,7 @@
    <p align="left">
       My name is Christopher but you can call me 
       <span><b><em>Chris</em></b></span>. 
-      I'm an 18 years old Lebanese sleep-deprived individual who fell in love with programming 4 years ago. I'm a 2nd year computer science student at one of the most prominent university of my country. I really enjoy working on personal projects with the sole purpose of getting better at writing efficient code in a multitude of languages and I'm keen on keeping abreast of the latest frameworks and technology.
+      I'm an 19 years old Lebanese sleep-deprived individual who fell in love with programming 4 years ago. I'm a 2nd year computer science student at one of the most prominent university of my country. I really enjoy working on personal projects with the sole purpose of getting better at writing efficient code in a multitude of languages and I'm keen on keeping abreast of the latest frameworks and technology.
    </p>
 </div>
 <div>
