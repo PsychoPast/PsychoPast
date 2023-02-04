@@ -34,7 +34,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Top Animes }</b> = [<em>"Shingeki no Kyojin", "Sword Art Online", "Tenki no Ko", "Death Note", "Hagane no Renkinjutsushi: Brotherhood"</em>]
       <br>
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Homies }</b> = [ <a href="https://github.com/AquaPlaysYT">Kyle</a>, <a href="https://github.com/karmakittenx">Karma</a>, <a href="https://github.com/ItsSyfe">Syfe</a>, <a href="https://github.com/m1fnbr">Joe</a>, <a href="https://github.com/SiLeNSwOrD">Droidy</a>, <a href="https://github.com/OutTheShade">Shade</a>, <a href="https://github.com/Marc-Jalkh">Marc</a> ]
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{ Homies }</b> = [ <a href="https://github.com/AquaPlaysYT">Kyle</a>, <a href="https://github.com/karmakittenx">Karma</a>, <a href="https://github.com/ItsSyfe">Syfe</a>, <a href="https://github.com/m1fnbr">Joe</a>, <a href="https://github.com/SiLeNSwOrD">Droidy</a>, <a href="https://github.com/OutTheShade">Shade</a>, <a href="https://github.com/Marc-Jalkh">Marc</a> ,__<a href="https://github.com/Dev-Sd3">Anthony</a>__]
    </p>
    <p>
       <b>]</b>
