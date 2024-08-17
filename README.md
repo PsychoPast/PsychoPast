@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/z0hrYDm.gif">
 <div>
    <h3 align="left">【 Ｐｒｏｆｉｌｅ 】</h3>
-   <img align="right" src="https://data.whicdn.com/images/346684507/original.gif">
+   <img align="right" src="https://i.pinimg.com/originals/a1/c6/2c/a1c62c3992371b5a2bd28a4632006125.gif">
    <p align="left">
       My name is Christopher but you can call me 
       <span><b><em>Chris</em></b></span>. 
