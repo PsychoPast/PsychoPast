@@ -59,14 +59,13 @@
       I'm a person who likes to jump on the bandwagon and learn new things, so I'm always looking for new ways to improve my skills which consists mainly of working on personal and team projects regardless of whether or not I/we succeed in completing them. What's important to me is the knowledge and experience that I gain along the way as well as the ability to properly plan, organize, design and implement code together with the team I'm part of, consisting most of the time of me and my homies which makes communication and collaboration a breeze. 
       <br>
       <br>
-      If you are interested in working on a project with me, please contact me via <b>Discord</b> or <b>Twitter</b>.
+      If you are interested in working on a project with me, please contact me via <b>Discord</b>.
    </p>
 </div>
 <div>
    <h3 align="left">【 S O C I A L S 】</h3>
 
    [<img align="left" alt="Psycho | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-   [<img align="left" alt="Psycho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
    [<img align="left" alt="Psycho | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
    [<img align="left" alt="Psycho | Email"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />][email]
 </div>
@@ -78,5 +77,4 @@
 
 [website]: https://psychopast.live
 [email]: <mailto:contact@psychopast.live>
-[twitter]: https://twitter.com/PsychoPastt
 [discord]: https://dsc.bio/8765
